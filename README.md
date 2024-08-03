@@ -3,7 +3,7 @@ A result summary program that fetches data from a json file and dynamically upda
 
 # Practice project
 ---
-<a href="https://christiankaycee.github.io/ResultsSummary/](https://results-summary-topaz-beta.vercel.app">Live Site Link</a>
+<a href="https://results-summary-topaz-beta.vercel.app">Live Site Link</a>
 
       -- Made with 💌
          -- By KingShow
